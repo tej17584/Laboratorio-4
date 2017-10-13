@@ -1,3 +1,7 @@
+/**
+ * Clase padre de todas, tiene los metodos generales
+ * @author Jose Tejada
+ */
 public class Timbre {
     /**
      * Este metodo lo que hace es imprimir un coso de timbre 1

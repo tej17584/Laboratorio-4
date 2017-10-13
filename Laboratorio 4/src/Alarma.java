@@ -1,3 +1,7 @@
+/**
+ * Esta clase es la alarma que hereda a Timbre
+ * @author Jose Tejada
+ */
 public class Alarma extends Timbre {
         /**
          * Este metodo imprime alarma 1 porque se modificó el metodo original.

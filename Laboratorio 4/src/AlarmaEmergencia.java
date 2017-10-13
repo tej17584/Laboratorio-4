@@ -5,7 +5,7 @@
  */
 
 /**
- *
+ *Esta clase hereda comportamientos de Alarma y es la que corremos
  * @author Jose Tejada
  */
 public class AlarmaEmergencia extends Alarma{
